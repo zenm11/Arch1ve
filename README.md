@@ -13,6 +13,7 @@ This document outlines tasks and improvements needed for the Archive system, inc
 
 
 - Terms of Service: Policy description 
+  
   Current possible invalidations could be the design structure of paraphrases inside the content. Certain descriptions or terms that are unnecessary NEEDS finalized polishing or SHOULD be resigned for viewers contend. | 
 
 - Archive Main Domain Page:| The main page should be greeted properly for the viewers acceptance throughout the system. We can proceed to TopShot to analyze the systems’ greeting design and implement the meanings into Archive. |**What viewers can scroll inside**
