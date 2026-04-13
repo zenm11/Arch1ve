@@ -16,7 +16,7 @@ This document outlines tasks and improvements needed for the Archive system, inc
   - Configure SEO settings to improve visibility.
   - Ensure the service appears properly in search engine listings.
 - Note:
-  - May require integration with **Amazon Web Services (AWS)** for better performance and indexing.
+  - This is needed to gain Production Access from Amazon Simple Emailing Services.
 
 ---
 
